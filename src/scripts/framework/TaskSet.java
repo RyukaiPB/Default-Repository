@@ -10,6 +10,7 @@ import java.util.List;
  * Date: 6/12/13
  * Time: 2:57 PM
  */
+
 public final class TaskSet extends HashSet<Task> {
 
 	public TaskSet (List<Task> tasks) {
